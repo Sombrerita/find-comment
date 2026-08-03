@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peter-evans/find-comment.git"
+    "url": "git+https://github.com/Sombrerita/find-comment.git"
   },
   "keywords": [
     "actions",
@@ -26,9 +26,9 @@
   "author": "Peter Evans",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peter-evans/find-comment/issues"
+    "url": "https://github.com/Sombrerita/find-comment/issues"
   },
-  "homepage": "https://github.com/peter-evans/find-comment#readme",
+  "homepage": "https://github.com/Sombrerita/find-comment#readme",
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.1"
@@ -51,3 +51,4 @@
     "typescript": "^4.9.5"
   }
 }
+
